@@ -1,0 +1,1 @@
+Check [this link](https://github.com/apache/shiro/pull/522#issuecomment-1372747870) for more details about this test project
